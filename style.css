@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(85, 212, 202);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.main{
+    background-color: rgba(255, 255, 255, 0.6);
+}
